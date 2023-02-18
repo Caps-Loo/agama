@@ -1,0 +1,2 @@
+# agama
+contoh 2
